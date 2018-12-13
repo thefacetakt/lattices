@@ -17,7 +17,7 @@
 
 ```
 Rule: median(POS_SUPPORT-NEG_SUPPORT) > -0.005758
-Rule: -median(NEG_SUPPORT) > 0.9381
+Rule: 1.0 - median(NEG_SUPPORT) > 0.9381
 Rule: mean(POS_POWER-NEG_POWER) > -0.4242
 ```
 
